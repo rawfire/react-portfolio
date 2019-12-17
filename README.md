@@ -1,2 +1,2 @@
-# Ignacio A. Andaur Portfolio App;ication
+# Ignacio A. Andaur Portfolio Application
 
